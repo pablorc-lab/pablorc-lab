@@ -14,11 +14,11 @@ Soy estudiante del último año de Ingeniería Informática en la Universidad de
 | **Back-End**             | <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" height="25" width="auto"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" height="25" width="auto"> <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" height="25" width="auto"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="25" width="auto"> |
 | **Herramientas**         | <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" height="25" width="auto"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" height="25" width="auto"> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="25" width="auto"> |
 
-
+<!--
 ## 🌱 Proyectos destacados
 [![](https://github-readme-stats.vercel.app/api/pin/?username=pablorc-lab&repo=TFG&bg_color=000000&title_color=fff&text_color=fff)](https://github.com/pablorc-lab/TFG)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=pablorc-lab&repo=princ_act&bg_color=000000&title_color=fff&text_color=fff)](https://github.com/pablorc-lab/princ_act)
-
+-->
 
 ## 📫 Conecta conmigo
 - **Correo electrónico :** [pabloramblado2002@gmail.com](mailto:pabloramblado2002@gmail.com)
@@ -26,17 +26,3 @@ Soy estudiante del último año de Ingeniería Informática en la Universidad de
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante en mis proyectos. No dudes en explorar y si tienes alguna pregunta o sugerencia, estaré encantado de recibir tu mensaje 😄.
 
-<!--
-**pablorc-lab/pablorc-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
