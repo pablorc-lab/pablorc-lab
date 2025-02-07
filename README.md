@@ -15,7 +15,6 @@ Soy estudiante del último año de Ingeniería Informática en la Universidad de
 | **Herramientas**         | <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" height="25" width="auto"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" height="25" width="auto"> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="25" width="auto"> |
 
 ## 🌱 Proyectos destacados
-[![](https://github-readme-stats.vercel.app/api/pin/?username=pablorc-lab&repo=TFG&bg_color=000000&title_color=fff&text_color=fff)](https://github.com/pablorc-lab/TFG)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=pablorc-lab&repo=princ_act&bg_color=000000&title_color=fff&text_color=fff)](https://github.com/pablorc-lab/princ_act)
 
 ## 📫 Conecta conmigo
