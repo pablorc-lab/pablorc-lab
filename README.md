@@ -2,7 +2,7 @@
 
 Soy estudiante del último año de Ingeniería Informática en la Universidad de Granada.  
 
-- Actualmente, mi ***principal enfoque está en el desarrollo web full stack***, un área en la que sigo aprendiendo y perfeccionando mis habilidades. Además, cuento con experiencia práctica en el despliegue de proyectos utilizando AWS. Aunque tengo algunos conocimientos en deep learning, mi prioridad está en formarme como desarrollador full stack.  
+- Actualmente, mi **principal enfoque está en el desarrollo web full stack**, un área en la que sigo aprendiendo y perfeccionando mis habilidades. Además, cuento con experiencia práctica en el despliegue de proyectos utilizando AWS. Aunque tengo conocimientos en machine learning y deep learning, mi prioridad está en formarme como desarrollador full stack.  
 
 - A pesar de mi limitada experiencia laboral, tengo una sólida base en tecnologías y un gran entusiasmo por seguir creciendo y asumiendo nuevos retos en este campo. 😄
 
