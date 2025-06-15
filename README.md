@@ -16,7 +16,7 @@ Soy estudiante del último año de Ingeniería Informática en la Universidad de
 
 ## 🌱 Proyectos destacados
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=pablorc-lab&repo=TFG&bg_color=1e1d22&title_color=fff&text_color=fff)](https://github.com/pablorc-lab/TFG) [![](https://github-readme-stats.vercel.app/api/pin/?username=pablorc-lab&repo=princ_act&bg_color=1e1d22&title_color=fff&text_color=fff)](https://github.com/pablorc-lab/princ_act)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=pablorc-lab&repo=TFG&bg_color=1e1d22&title_color=fff&text_color=fff&cache=0)](https://github.com/pablorc-lab/TFG) [![](https://github-readme-stats.vercel.app/api/pin/?username=pablorc-lab&repo=princ_act&bg_color=1e1d22&title_color=fff&text_color=fff)](https://github.com/pablorc-lab/princ_act)
 
 ## 📫 Conecta conmigo
 - **Correo electrónico :** [pabloramblado2002@gmail.com](mailto:pabloramblado2002@gmail.com)
