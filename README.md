@@ -1,6 +1,6 @@
 <h1 align="center">Hola👋 soy Pablo Ramblado</h1>
 
-Soy estudiante del último año de Ingeniería Informática en la Universidad de Granada.  
+Recién graduado en Ingeniería Informática en la Universidad de Granada.  
 
 - Actualmente, mi **principal enfoque está en el desarrollo web full stack**, un área en la que sigo aprendiendo y perfeccionando mis habilidades. Además, cuento con experiencia práctica en el despliegue de proyectos utilizando AWS. Aunque tengo conocimientos en machine learning y deep learning, mi prioridad está en formarme como desarrollador full stack.  
 
